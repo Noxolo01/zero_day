@@ -1,0 +1,2 @@
+mkdir 0x00-vagrant
+echo 'Linux' > 0-hello_ubuntu
